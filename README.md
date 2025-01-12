@@ -16,7 +16,6 @@ General idea:
 
 [![Demo Video](https://img.youtube.com/vi/mYBb0uQxanA/0.jpg)](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
 
-
 [Item expansion within the grid:](https://youtube.com/shorts/y3CRyKI4gJ4)
 
 [![Demo Video](https://img.youtube.com/vi/y3CRyKI4gJ4/0.jpg)](https://youtube.com/shorts/y3CRyKI4gJ4?feature=share)
