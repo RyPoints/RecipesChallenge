@@ -69,7 +69,7 @@ General idea:
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
-I put the basic interface together, then the image caching then the unit test.  Then I prettied up the basic interface a bit.  Then it was time to show the recipe content.  Webviews were an option for displaying recipes, but the web sites used are more formatted for web than mobile, so some customization for the content would help for the text content to be more digestable on mobile.
+I put the basic interface together, then the image caching then the unit test.  After that I prettied up the basic interface a bit.  Then it was time to show the recipe content.  Webviews were an option for displaying recipes, but the web sites used are more formatted for web than mobile, so some customization for the content would help for the text content to be more digestable on mobile.
 
 ### Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
@@ -78,7 +78,7 @@ Now I'm just and reviewing the code for submission and making this documentation
 
 ### Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
-Only having one screen is a kind of trade-off and having non-mobile-formatted content is also a kind of trade-off, but I mitigated both trade-offs by putting the details screen that is often a subscreen in the Grid itself and using a webscraper and SQL database to standardize the content.
+Only having one screen is a kind of trade-off and having non-mobile-formatted web content is also a kind of trade-off, but I mitigated both trade-offs by putting the details screen that is often a subscreen in the Grid itself and using a webscraper and SQL database to standardize the content.
 
 Another trade-off was I left about five of the custom sites out of the scraper because 95% of the content was enough for this demo, but if this was a real project I would have added those too and further enhanced the scraper.
 
@@ -86,7 +86,7 @@ I'd also probably add some indicators at the top to show what filter you are on 
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 
-The scraper is likely the weakest part and also the strongest part.  Scapers are often weak because they are brittle and break easily on web changes, though they also are pretty easy to fix if they break.  While the scraper isn't perfect, it enabled much more standardized formatting of the content while still citing the full info.  Even after scaping one can manually review and edit the database before using it.  
+The scraper is likely the weakest part and also the strongest part.  Scapers are often weak because they are brittle and break easily on web changes, though they also are pretty easy to fix if they break.  While the scraper isn't perfect, it enabled much more standardized formatting of the content while still citing the full info.  Even after scaping one can manually review and edit the database before using it.
 
 ### Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered.
 
