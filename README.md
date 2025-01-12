@@ -1,14 +1,27 @@
 # <img src="https://www.zendevelop.com/AppIcon.png" width="32" height="32" style="vertical-align: middle"> Recipes Challenge
 
+
+
+
 ### Summary: Include screen shots or a video of your app highlighting its features
 
-Grid of items:
+[Grid of items:](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
 
-Item expansion within the grid:
+[![Demo Video](https://img.youtube.com/vi/mYBb0uQxanA/0.jpg)](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
 
-Expansion behaviors:
 
-Natural selection of next/previous:
+
+
+[Item expansion within the grid:](https://youtube.com/shorts/y3CRyKI4gJ4)
+
+[![Demo Video](https://img.youtube.com/vi/y3CRyKI4gJ4/0.jpg)](https://youtube.com/shorts/y3CRyKI4gJ4?feature=share)
+
+
+
+[Expansion behaviors:](https://youtube.com/shorts/Sy95JLy1xYo)
+
+[![Demo Video](https://img.youtube.com/vi/Sy95JLy1xYo/0.jpg)](https://youtube.com/shorts/Sy95JLy1xYo?feature=share)
+
 
 Type filter:
 
@@ -18,9 +31,13 @@ Alphabetical sort:
 
 Filter and sort:
 
-Link to YouTube:
+[Link to YouTube:](https://youtube.com/shorts/O1IRFHPnneI?feature=share)
 
-Link to source site:
+[![Demo Video](https://img.youtube.com/vi/O1IRFHPnneI/0.jpg)](https://youtube.com/shorts/O1IRFHPnneI?feature=share)
+
+[Link to source site:](https://youtube.com/shorts/0fu3lDfVU-4?feature=sharee)
+
+[![Demo Video](https://img.youtube.com/vi/0fu3lDfVU-4/0.jpg)](https://youtube.com/shorts/0fu3lDfVU-4?feature=share)
 
 System light mode compatible:
 
