@@ -1,8 +1,5 @@
 # <img src="https://www.zendevelop.com/AppIcon.png" width="32" height="32" style="vertical-align: middle"> Recipes Challenge
 
-
-
-
 ### Summary: Include screen shots or a video of your app highlighting its features
 
 [Grid of items:](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
@@ -10,45 +7,55 @@
 [![Demo Video](https://img.youtube.com/vi/mYBb0uQxanA/0.jpg)](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
 
 
-
-
 [Item expansion within the grid:](https://youtube.com/shorts/y3CRyKI4gJ4)
 
 [![Demo Video](https://img.youtube.com/vi/y3CRyKI4gJ4/0.jpg)](https://youtube.com/shorts/y3CRyKI4gJ4?feature=share)
-
-
 
 [Expansion behaviors:](https://youtube.com/shorts/Sy95JLy1xYo)
 
 [![Demo Video](https://img.youtube.com/vi/Sy95JLy1xYo/0.jpg)](https://youtube.com/shorts/Sy95JLy1xYo?feature=share)
 
-
-Type filter:
-
-Country filter:
-
-Alphabetical sort:
-
-Filter and sort:
-
 [Link to YouTube:](https://youtube.com/shorts/O1IRFHPnneI?feature=share)
 
 [![Demo Video](https://img.youtube.com/vi/O1IRFHPnneI/0.jpg)](https://youtube.com/shorts/O1IRFHPnneI?feature=share)
 
-[Link to source site:](https://youtube.com/shorts/0fu3lDfVU-4?feature=sharee)
+[Link to source site:](https://youtube.com/shorts/0fu3lDfVU-4?feature=share)
 
 [![Demo Video](https://img.youtube.com/vi/0fu3lDfVU-4/0.jpg)](https://youtube.com/shorts/0fu3lDfVU-4?feature=share)
 
-System light mode compatible:
+[System light mode compatible:](https://youtube.com/shorts/w91z5MWUHJs)
 
-Pull to refresh:
+[![Demo Video](https://img.youtube.com/vi/w91z5MWUHJs/0.jpg)](https://youtube.com/shorts/w91z5MWUHJs?feature=share)
 
-Empty JSON result:
 
-Malformed JSONresult:
+[Pull to refresh:](https://youtube.com/shorts/zJGeULkvgVk)
 
-Scraper:
+[![Demo Video](https://img.youtube.com/vi/zJGeULkvgVk/0.jpg)](https://youtube.com/shorts/zJGeULkvgVk?feature=share)
 
+[Empty JSON result:](https://youtube.com/shorts/7E2ajdWMdcA)
+
+[![Demo Video](https://img.youtube.com/vi/7E2ajdWMdcA/0.jpg)](https://youtube.com/shorts/7E2ajdWMdcA?feature=share)
+
+
+[Malformed JSON result:](https://youtube.com/shorts/qMBuH0F1jfQ?feature=share)
+
+[![Demo Video](https://img.youtube.com/vi/qMBuH0F1jfQ/0.jpg)](https://youtube.com/shorts/qMBuH0F1jfQ?feature=share)
+
+[Type filter:](https://youtube.com/shorts/RSigqepkh30)
+
+[![Demo Video](https://img.youtube.com/vi/RSigqepkh30/0.jpg)](https://youtube.com/shorts/RSigqepkh30?feature=share)
+
+[Country filter:](https://youtube.com/shorts/fBckRwehWIY)
+
+[![Demo Video](https://img.youtube.com/vi/fBckRwehWIY/0.jpg)](https://youtube.com/shorts/OfBckRwehWIY?feature=share)
+
+[Alphabetical sort:](https://youtube.com/shorts/G7ThB0770d8)
+
+[![Demo Video](https://img.youtube.com/vi/G7ThB0770d8/0.jpg)](https://youtube.com/shorts/G7ThB0770d8?feature=share)
+
+[Filter and sort:](https://youtube.com/shorts/-mBgTsVyaRw)
+
+[![Demo Video](https://img.youtube.com/vi/-mBgTsVyaRw/0.jpg)](https://youtube.com/shorts/-mBgTsVyaRw?feature=share)
 
 
 ### Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
