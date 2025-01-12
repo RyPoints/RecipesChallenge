@@ -2,6 +2,16 @@
 
 ### Summary: Include screen shots or a video of your app highlighting its features
 
+General idea:
+
+<img src="https://www.zendevelop.com/preButterTart.jpg" width="390" height="844" alt="Recipe App Screenshot">
+
+<img src="https://www.zendevelop.com/butterTart1.png" width="390" height="844" alt="Recipe App Screenshot">
+<img src="https://www.zendevelop.com/butterTart2.png" width="390" height="844" alt="Recipe App Screenshot">
+<img src="https://www.zendevelop.com/butterTart3.png" width="390" height="844" alt="Recipe App Screenshot">
+<img src="https://www.zendevelop.com/butterTart4.png" width="390" height="844" alt="Recipe App Screenshot">
+<img src="https://www.zendevelop.com/butterTart5.png" width="390" height="844" alt="Recipe App Screenshot">
+
 [Grid of items:](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
 
 [![Demo Video](https://img.youtube.com/vi/mYBb0uQxanA/0.jpg)](https://youtube.com/shorts/mYBb0uQxanA?feature=share)
@@ -72,6 +82,8 @@ Now I'm just and reviewing the code for submission and making this documentation
 Only having one screen is a kind of trade-off and having non-mobile-formatted content is also a kind of trade-off, but I mitigated both trade-offs by putting the details screen that is often a subscreen in the Grid itself and using a webscraper and SQL database to standardize the content.
 
 Another trade-off was I left about five of the custom sites out of the scraper because 95% of the content was enough for this demo, but if this was a real project I would have added those too and further enhanced the scraper.
+
+I'd also probably add some indicators at the top to show what filter you are on just so that is clearer as well as next step from where things are at.
 
 ### Weakest Part of the Project: What do you think is the weakest part of your project?
 
