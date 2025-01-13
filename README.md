@@ -4,8 +4,8 @@
 
 General idea:
 
+<img src="https://www.zendevelop.com/beaverTail.gif" width="390" height="844" alt="Recipe App Animated Gif">
 <img src="https://www.zendevelop.com/preButterTart.jpg" width="390" height="844" alt="Recipe App Screenshot">
-
 <img src="https://www.zendevelop.com/butterTart1.png" width="390" height="844" alt="Recipe App Screenshot">
 <img src="https://www.zendevelop.com/butterTart2.png" width="390" height="844" alt="Recipe App Screenshot">
 <img src="https://www.zendevelop.com/butterTart3.png" width="390" height="844" alt="Recipe App Screenshot">
